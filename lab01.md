@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 请将标题写在这里
+title: 国庆攻略
 ---
 
 # 国庆广州旅游简要攻略
